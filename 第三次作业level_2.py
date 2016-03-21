@@ -1,3 +1,6 @@
+
+       #codes of level 2
+
 A=["    #      ","  #   #    "," # # # #   ","#       #  ","#       #  "]  #designing char to display corresponding letter
 B=["# # # #    ","#       #  ","# # # #    ","#       #  ","# # # #    "]
 C=["    # # #  ","  #        "," #         ","  #        ","    # # #  "]
@@ -110,3 +113,4 @@ for i in range(len(text)):
 
 for l in range(5):       #display these letters
     print show[l]
+
