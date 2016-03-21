@@ -18,6 +18,8 @@
 - 作业L1 在屏幕上用字符拼出自己姓名的英文
 ### [Leve l](https://github.com/Memorieddd/computationalphysics_N2013301020059/blob/master/dingdongdong.py)
 - 作业L2 在屏幕上用字符拼出任意次序的姓名
+### [level2](https://github.com/Memorieddd/computationalphysics_N2013301020059/blob/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9Alevel_2.py)
+![level2图片截图](https:https://raw.githubusercontent.com/Memorieddd/computationalphysics_N2013301020059/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9Alevel2%E5%A7%93%E5%90%8D%E6%88%AA%E5%9B%BE.png)
 - 作业L3 在80*80点阵上用字符拼出你想画的东西，希望脑洞大开！（比如字符，火柴人，实现移动、旋转等等）
 ## 第四次作业
 - 完成第一章的练习题（自己任选一题）
