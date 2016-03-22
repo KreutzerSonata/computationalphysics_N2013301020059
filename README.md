@@ -30,4 +30,4 @@
 - 完成第一章的练习题（自己任选一题）
 - 使用matplotlib完成图片的各种细节，认真写报告
 
-[第四次作业chapter1习题1.3实验报告](https://github.com/Memorieddd/computationalphysics_N2013301020059/tree/master/chapter1)
+[第四次作业chapter1习题1.3实验报告](https://www.zybuluo.com/Memorieddd/note/316373)
