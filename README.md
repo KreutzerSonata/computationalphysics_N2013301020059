@@ -1,6 +1,6 @@
 # computationalphysics_N2013301020059
 ## I'm ddd,hiahiahiahia，计算物理有点小难呀555555555
-##实在尽力，还是感觉无从下手，又想得高分，这就是一个很尴尬的存在了。慢慢来吧，好好努力
+##BUT I WILL TRY MY BEST TO DOTHE HOMEWORKS OF  THIS COURSE
 # 作业列表
 
 ## 第一次作业
