@@ -4,9 +4,9 @@
 # 作业列表
 
 ## 第一次作业
-- 已经安装linux系统
-- 已经安装python 2.7运行环境
-- 已经注册github账户，并且关注[caihao/computational_physics_whu](https://github.com/caihao/computational_physics_whu)
+- 安装linux系统
+- 安装python 2.7运行环境
+- 注册github账户，并且关注[caihao/computational_physics_whu](https://github.com/caihao/computational_physics_whu)
 
 ## 第二次作业
 - 自学vim相关操作
