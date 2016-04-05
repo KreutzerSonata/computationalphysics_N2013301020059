@@ -22,7 +22,7 @@
 
 - [level2](https://github.com/Memorieddd/computationalphysics_N2013301020059/blob/master/homework_3rd/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9Alevel_2.py)
 
-- ![level2图片截图](https://github.com/Memorieddd/computationalphysics_N2013301020059/blob/master/homework_3rd/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9Alevel2%E5%A7%93%E5%90%8D%E6%88%AA%E5%9B%BE.png)
+- [level2图片截图](https://github.com/Memorieddd/computationalphysics_N2013301020059/blob/master/homework_3rd/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9Alevel2%E5%A7%93%E5%90%8D%E6%88%AA%E5%9B%BE.png)
 - 作业L3 在80*80点阵上用字符拼出你想画的东西，希望脑洞大开！（比如字符，火柴人，实现移动、旋转等等）
 （此次作业多亏了黄程同学讲解代码，我才能完成，在此表达谢意）
 
@@ -30,4 +30,4 @@
 - 完成第一章的练习题（自己任选一题）
 - 使用matplotlib完成图片的各种细节，认真写报告
 
-[第四次作业chapter1习题1.3实验报告](https://www.zybuluo.com/Memorieddd/note/316373)
+- [第四次作业chapter1习题1.3实验报告](https://www.zybuluo.com/Memorieddd/note/316373)
