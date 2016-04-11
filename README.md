@@ -31,3 +31,8 @@
 - 使用matplotlib完成图片的各种细节，认真写报告
 
 - [第四次作业chapter1习题1.3实验报告](https://www.zybuluo.com/Memorieddd/note/316373)
+
+## 第五次作业
+- 继续用第一章的练习题熟悉python编程，并熟练撰写markdown文档
+- 
+-[第五次作业chapter1习题1.1实验报告](https://www.zybuluo.com/Memorieddd/note/321852)
