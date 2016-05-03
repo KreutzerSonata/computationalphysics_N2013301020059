@@ -36,3 +36,8 @@
 - 继续用第一章的练习题熟悉python编程，并熟练撰写markdown文档
 - 
 -[第五次作业chapter1习题1.1实验报告](https://www.zybuluo.com/Memorieddd/note/321852)
+
+## 第六次作业
+-作业L1 2.9题[homework_6](）https://www.zybuluo.com/Memorieddd/note/365009)(未完成）
+- 作业L2 2.10题强化版（引入风阻）————“辅助精确打击系统”
+- 作业L3 发展“超级辅助精确打击系统”（考虑炮弹初始发射的时候发射角度误差1%，速度有5%的误差，风阻误差10%，可以考虑引入Coriolis force等，以炮弹落点与打击目标距离差平方均值最小为优胜
