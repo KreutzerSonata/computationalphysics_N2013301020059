@@ -30,7 +30,7 @@
 - 作业L3 发展“超级辅助精确打击系统”（考虑炮弹初始发射的时候发射角度误差1%，速度有5%的误差，风阻误差10%，可以考虑引入Coriolis force等，以炮弹落点与打击目标距离差平方均值最小为优胜
 
 
-## Homework_7
+## [Homework_7](https://www.zybuluo.com/Memorieddd/note/365403)
 - 作业L1 2.19题
 > 建议：可以使用argparse和ConfigParser两个包设置程序初始参数
 
