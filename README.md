@@ -37,7 +37,7 @@
 - 作业L2 使用vpython可视化炮弹发射或者棒球运动
 > 建议：可参考一些[例子](http://www.visualrelativity.com/vpython/)
 
-## Homework_8
+## [Homework_8](https://www.zybuluo.com/Memorieddd/note/402091)
 - 作业3.7 3.8
 
 ## Homework_9
