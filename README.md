@@ -55,7 +55,7 @@
 ## [Homework_12](https://www.zybuluo.com/Memorieddd/note/410948)
 - 作业 4.16 4.18 4.20
 
-## [Homework_13](https://www.zybuluo.com/Memorieddd/note/411062)(未完成）
+## [Homework_13](https://www.zybuluo.com/Memorieddd/note/411062)
 - 作业 5.3 5.7 5.16
 
 ## [Homework_14](https://www.zybuluo.com/Memorieddd/note/411064)（未完成）
